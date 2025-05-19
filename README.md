@@ -1,8 +1,8 @@
-# 🚀 AWS DevOps Journey: 30 Days to Cloud Confidence
+# 🚀 AWS DevOps Journey
 
-Welcome to my 30-day hands-on learning journey into AWS & DevOps! 🌩️
+Welcome to my hands-on learning journey into AWS & DevOps! 🌩️
 
-📅 **Timeline:** April – May 2025  
+📅 **Timeline:** May – June 2025  
 🎯 **Goal:** Become job-ready with cloud projects, CI/CD, monitoring, and infrastructure automation.
 
 ---
